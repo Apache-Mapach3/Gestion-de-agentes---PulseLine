@@ -1,0 +1,9 @@
+/target/
+/build/
+/nbproject/private/
+/*.iml
+/.idea/
+/*.class
+*.log
+.DS_Store
+/gestion-agentes-backend/target/
