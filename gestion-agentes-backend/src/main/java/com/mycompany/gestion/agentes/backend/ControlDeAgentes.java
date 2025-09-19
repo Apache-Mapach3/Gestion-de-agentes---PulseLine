@@ -24,7 +24,6 @@ public class ControlDeAgentes {
         agentList.add("Agente 001: Gustavo Godoy Gutierrez");
         agentList.add("Agente 002: Armando Paredes Bonitas");
         agentList.add("Agente 003: Rempujencio Del Cristo");
-        agentList.add("Agente 004: Verenice Del Rio Claro");
         return agentList; // Spring convierte esto a JSON automáticamente
     }
 }
